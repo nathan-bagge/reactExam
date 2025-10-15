@@ -1,5 +1,7 @@
 # React In-class Exam, October 2025
 
+Nathan Bagge, 20107187
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
